@@ -18,6 +18,11 @@
 <p>
 I am a Computer Engineer 💻, Full Stack developer with extensive experience in creating robust and scalable web solutions 🌐. I value independence, effective communication 🗣️, and teamwork 🤝. Skilled in project management 📊, leading teams to deliver efficient and scalable solutions 🚀. Let's build something great together! 💪
 </p>
+<p align="center">
+  <img src="./computerengineer.png" width="100%"/>
+   <img src="./graphicdesigner.png" width="100%"/>
+  <img src="./mba.png" width="100%"/>
+</p>
 
   
 <!--
