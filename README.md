@@ -3,7 +3,10 @@
 </span>
 <div align="center"><img src="./BannerGithub_2.jpg" width="100%"/></div>
 <br>
-<p align="center"><img src="./laravel.png" width="80px"/></p>
+<p align="center">
+  <img src="./laravel.png" width="80px"/>
+   <img src="./vue.png" width="80px"/>
+</p>
 
   
 <!--
