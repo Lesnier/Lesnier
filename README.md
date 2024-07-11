@@ -6,6 +6,10 @@
 <p align="center">
   <img src="./laravel.png" width="80px"/>
    <img src="./vue.png" width="80px"/>
+  <img src="./csharp.png" width="80px"/>
+  <img src="./angular.png" width="80px"/>
+  <img src="./node.png" width="80px"/>
+  <img src="./react.png" width="80px"/>
 </p>
 
   
