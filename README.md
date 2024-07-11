@@ -15,7 +15,6 @@
   <img src="./javascript_1.png" width="80px"/>
    <img src="./typescript.png" width="80px"/>
 </p>
-<br>  
 <p>
   Full Stack developer with more than 8 years of experience creating robust and scalable web solutions. With a strong background in software engineering and a master's degree in business management, I specialize in integrating frontend and backend to deliver high-quality products that meet customer needs.
 </p>
