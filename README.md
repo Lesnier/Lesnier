@@ -16,8 +16,7 @@
    <img src="./typescript.png" width="80px"/>
 </p>
 <p>
- I am a Computer Engineer, Full Stack developer with extensive experience in creating robust and scalable web solutions. I value independence, effective communication, and teamwork.
-Skilled in project management, leading teams to deliver efficient and scalable solutions. Let's build something great together!
+I am a Computer Engineer 💻, Full Stack developer with extensive experience in creating robust and scalable web solutions 🌐. I value independence, effective communication 🗣️, and teamwork 🤝. Skilled in project management 📊, leading teams to deliver efficient and scalable solutions 🚀. Let's build something great together! 💪
 </p>
 
   
