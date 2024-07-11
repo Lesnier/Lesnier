@@ -22,9 +22,9 @@ I am a Computer Engineer 💻, Full Stack developer with extensive experience in
   <h2>Education 📚</h2>  
 </span>
 <div align="left">
-  <img src="./computerengineer.png" width="33%"/>
-   <img src="./graphicdesigner.png" width="33%"/>
-  <img src="./mba.png" width="33%"/>
+  <img src="./computerengineer_.png" width="33%"/>
+   <img src="./graphicdesigner_.png" width="33%"/>
+  <img src="./mba_.png" width="33%"/>
 </div>
 
 
