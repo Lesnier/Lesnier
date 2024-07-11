@@ -21,11 +21,11 @@ I am a Computer Engineer 💻, Full Stack developer with extensive experience in
 <span align="center">
   <h2>Education 📚</h2>  
 </span>
-<p align="center">
-  <img src="./computerengineer.png" width="33%"/>
-   <img src="./graphicdesigner.png" width="33%"/>
-  <img src="./mba.png" width="33%"/>
-</p>
+<div align="left">
+  <img src="./computerengineer.png" width="50%"/>
+   <img src="./graphicdesigner.png" width="50%"/>
+  <img src="./mba.png" width="50%"/>
+</div>
 
   
 <!--
