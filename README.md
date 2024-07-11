@@ -12,6 +12,7 @@
   <img src="./angular.png" width="80px"/>
   <img src="./node.png" width="80px"/>
   <img src="./react.png" width="80px"/>
+  <img src="./javascript.png" width="80px"/>
 </p>
 
   
