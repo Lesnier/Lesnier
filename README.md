@@ -20,7 +20,7 @@ I am a Computer Engineer 💻, Full Stack developer with extensive experience in
 </p>
 <br>
 <span align="center">
-  <h1><span style="margin-bottom:15px"> </span> <br></h1>  
+  <h2>Education 📚</h2>  
 </span>
 <p align="center">
   <img src="./computerengineer.png" width="33%"/>
