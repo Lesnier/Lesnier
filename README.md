@@ -1,8 +1,9 @@
 <span align="center">
-  <h1><span style="margin-bottom:15px"> Welcome 👋, to Lesnier's Github</span> <br><img src="https://komarev.com/ghpvc/?username=Les&label=Profile%20view&color=0047AB&style=plastic?" alt="Les" height="30px" width="140px" /> </h1>  
+  <h1><span style="margin-bottom:15px"> Welcome 👋, to Lesnier's Github</span> <br></h1>  
 </span>
 <div align="center"><img src="./BannerGithub_2.jpg" width="100%"/></div>
 <br>
+<img src="https://komarev.com/ghpvc/?username=Les&label=Profile%20view&color=0047AB&style=plastic?" alt="Les" height="30px" width="140px" /> 
 <p align="center">
   <img src="./laravel.png" width="80px"/>
    <img src="./vue.png" width="80px"/>
