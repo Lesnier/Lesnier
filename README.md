@@ -16,7 +16,8 @@
    <img src="./typescript.png" width="80px"/>
 </p>
 <p>
-  Full Stack developer with more than 8 years of experience creating robust and scalable web solutions. With a strong background in software engineering and a master's degree in business management, I specialize in integrating frontend and backend to deliver high-quality products that meet customer needs.
+ I am a Computer Engineer, Full Stack developer with extensive experience in creating robust and scalable web solutions. I value independence, effective communication, and teamwork.
+Skilled in project management, leading teams to deliver efficient and scalable solutions. Let's build something great together!
 </p>
 
   
