@@ -1,7 +1,4 @@
 
-<span align="center">
-  <h1>Welcome 👋</h1>
-</div>
 <div align="center"><img src="./banner-mefium.jpg" width="100%"/></div>
 <img src="https://komarev.com/ghpvc/?username=Les&label=Profile%20views&color=0047AB&style=plastic?" alt="Les" height=30px, width=160px/> 
   
