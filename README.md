@@ -27,6 +27,7 @@ I am a Computer Engineer 💻, Full Stack developer with extensive experience in
   <img src="./mba.png" width="33%"/>
 </div>
 
+
   
 <!--
 **Lesnier/Lesnier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
