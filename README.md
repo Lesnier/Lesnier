@@ -2,7 +2,7 @@
   <h1><span style="margin-bottom:15px"> Welcome 👋, to Lesnier's Github</span> <br><img src="https://komarev.com/ghpvc/?username=Les&label=You%20are%20visitor%20number&color=0047AB&style=plastic?" alt="Les" height="30px" width="220px" /> </h1>  
 </span>
 <div align="center"><img src="./BannerGithub_2.jpg" width="100%"/></div>
-
+<p align="center"><img src="./BannerGithub_2.jpg" width="100%"/></p>
 
   
 <!--
