@@ -1,5 +1,6 @@
 
 <div align="center"><h1>Hi 👋, I'am Lesnier</h1></div>
+<div align="center"><img src="./banner-mefium.jpg"/></div>
 <!--
 **Lesnier/Lesnier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
