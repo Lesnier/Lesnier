@@ -1,5 +1,5 @@
 
-<div align="center"><h1>Welcome 👋, You have finally discovered my Github profile.</h1></div>
+<div align="center"><h1>Welcome 👋</h1></div>
 <div align="center"><img src="./banner-mefium.jpg"/></div>
 <!--
 **Lesnier/Lesnier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
