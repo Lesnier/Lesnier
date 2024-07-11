@@ -13,6 +13,7 @@
   <img src="./node.png" width="80px"/>
   <img src="./react.png" width="80px"/>
   <img src="./javascript_1.png" width="80px"/>
+   <img src="./typescript.png" width="80px"/>
 </p>
 
   
