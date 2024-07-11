@@ -27,7 +27,7 @@ I am a Computer Engineer 💻, Full Stack developer with extensive experience in
   <img src="./mba_.png" width="33%"/>
 </div>
 <span align="center">
-  <h2>Connect with me 📣</h2>  
+  <h2>Connect with me 📡</h2>  
 </span>
 <p align="center">
 	<a href="mailto:ahmed.7oskaa@gmail.com"><img img src="https://img.shields.io/badge/gmail-%23EA4335.svg?style=plastic&logo=gmail&logoColor=white" alt="Gmail"/></a>
