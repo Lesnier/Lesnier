@@ -1,7 +1,7 @@
 <span align="center">
   <h1><span style="margin-bottom:15px"> Welcome 👋, to Lesnier's Github</span> <br></h1>  
 </span>
-<div align="center"><img src="./BannerGithub_2.jpg" width="100%"/></div>
+<div align="center"><img src="./BannerGithub_3.jpg" width="100%"/></div>
 <br>
 <div align="center"><img src="https://komarev.com/ghpvc/?username=Les&label=Profile%20view&color=0047AB&style=plastic?" alt="Les" height="30px" width="140px" /> </div>
 <br>
@@ -22,9 +22,9 @@ I am a Computer Engineer 💻, Full Stack developer with extensive experience in
   <h2>Education 📚</h2>  
 </span>
 <div align="left">
-  <img src="./computerengineer.png" width="50%"/>
-   <img src="./graphicdesigner.png" width="50%"/>
-  <img src="./mba.png" width="50%"/>
+  <img src="./computerengineer.png" width="33%"/>
+   <img src="./graphicdesigner.png" width="33%"/>
+  <img src="./mba.png" width="33%"/>
 </div>
 
   
