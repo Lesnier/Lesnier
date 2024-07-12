@@ -57,9 +57,11 @@ I am a Computer Engineer 💻, Full Stack developer with extensive experience in
 </p>
 <br>
 <br>
-🔭 Currently, I am reading a little about macroeconomics to better understand the factors that influence global markets.
-🌱 In addition, I am immersed in learning application development using artificial intelligence and Web3 technologies, always seeking to be at the forefront of technological innovations.
-👯 I am currently open to job opportunities: My CV
+
+- 🔭 Currently, I am reading a little about macroeconomics to better understand the factors that influence global markets.
+
+- 🌱 In addition, I am immersed in learning application development using artificial intelligence and Web3 technologies, always seeking to be at the forefront of technological innovations.
+- 👯 I am currently open to job opportunities: My CV
 
 <br>
 <br>
