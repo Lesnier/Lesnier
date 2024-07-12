@@ -82,16 +82,6 @@ I am a Computer Engineer 💻, Full Stack developer with extensive experience in
 - 👯 I am currently open to job opportunities: My CV
 
 <br>
- <span align="center">
-  <h2>My Articles 📰</h2>  
-</span>
-
-| ![Fourth Industrial Revolution](https://miro.medium.com/v2/format:webp/1*xCtCChMojAOAAllwpglwmA.png) [Fourth Industrial Revolution](https://medium.com/@lesniergonzalez/the-impact-of-the-fourth-industrial-revolution-on-the-labor-market-opportunities-threats-and-e70e6318c0ce) | ![Vue.js vs Angular vs React](https://miro.medium.com/v2/format:webp/1*iL3PD7EYTVQTsqTsH1ceoA.jpeg) [Vue.js vs Angular vs React](https://medium.com/@lesniergonzalez/battle-of-the-frontend-titans-vue-js-vs-angular-vs-react-c3987ade6b91) | ![Vue 3 — Route Map for Beginners](https://miro.medium.com/v2/format:webp/1*BSIjbkvzxqld6ZMcoG5NGg.png) [Vue 3 — Route Map for Beginners](https://medium.com/@lesniergonzalez/vue-3-route-map-for-beginners-e9709b17f25e) |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| "The Fourth Industrial Revolution (4IR) is characterized by the fusion of digital, physical, and biological technologies, fundamentally altering the way we live, work, and interact..."                                                                                           | "Choosing the right frontend framework is crucial for developers and businesses alike. Vue.js, Angular, and React are three of the most popular choices, each with ..."                                                                     | "In this tutorial, we’ll delve deep into Vue.js’s core features, useful additional resources, the Pinia library for state management, as well as recommended influencers ..."                                             |
-| [Lee más](https://medium.com/@lesniergonzalez/the-impact-of-the-fourth-industrial-revolution-on-the-labor-market-opportunities-threats-and-e70e6318c0ce)                                                                                                                           | [Lee más](https://medium.com/@lesniergonzalez/battle-of-the-frontend-titans-vue-js-vs-angular-vs-react-c3987ade6b91)                                                                                                                        | [Lee más](https://medium.com/@lesniergonzalez/vue-3-route-map-for-beginners-e9709b17f25e)                                                                                                                                 |
-
-<br>
 <br>
 <div align="center"><img src="./cta.png" width="100%"/></div>
 
