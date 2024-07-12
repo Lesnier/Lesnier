@@ -21,7 +21,7 @@
 </p>
 
 <span align="center">
-<h2>Other tehcnogies and Tools</h2>
+<h2>Other Technogies and Tools</h2>
 </span>
 
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=flat-square&logoColor=white) ![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white) ![Linux Mint](https://img.shields.io/badge/Linux_Mint-87CF3E?style=flat-square&logo=linux-mint&logoColor=white) ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
@@ -83,7 +83,7 @@ I am a Computer Engineer 💻, Full Stack developer with extensive experience in
 <br>
 <br>
  <span align="center">
-  <h2>Articles 📰</h2>  
+  <h2>My Articles 📰</h2>  
 </span>
 
 | ![Fourth Industrial Revolution](https://miro.medium.com/v2/format:webp/1*xCtCChMojAOAAllwpglwmA.png) [Fourth Industrial Revolution](https://medium.com/@lesniergonzalez/the-impact-of-the-fourth-industrial-revolution-on-the-labor-market-opportunities-threats-and-e70e6318c0ce) | ![Vue.js vs Angular vs React](https://miro.medium.com/v2/format:webp/1*iL3PD7EYTVQTsqTsH1ceoA.jpeg) [Vue.js vs Angular vs React](https://medium.com/@lesniergonzalez/battle-of-the-frontend-titans-vue-js-vs-angular-vs-react-c3987ade6b91) | ![Vue 3 — Route Map for Beginners](https://miro.medium.com/v2/format:webp/1*BSIjbkvzxqld6ZMcoG5NGg.png) [Vue 3 — Route Map for Beginners](https://medium.com/@lesniergonzalez/vue-3-route-map-for-beginners-e9709b17f25e) |
