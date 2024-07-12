@@ -42,8 +42,8 @@ I am a Computer Engineer 💻, Full Stack developer with extensive experience in
 </span>
 
 <div>
-	<a href="https://dev.to/lesniergonzalez"><img src="./lottiefile.png" alt="Medium" width="50%"/></a>
-	<a href="https://dev.to/lesniergonzalez"><img src="./lottiefile.png" alt="Medium" width="50%"/></a>
+	<a href="https://dev.to/lesniergonzalez"  style="padding:15px"><img src="./lottiefile.png" alt="Medium" width="48%"/></a>
+	<a href="https://dev.to/lesniergonzalez"><img src="./lottiefile.png" alt="Medium" width="48%"/></a>
 </div>
 
 
