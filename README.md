@@ -57,14 +57,7 @@ I am a Computer Engineer 💻, Full Stack developer with extensive experience in
 </p>
 <br>
 <br>
-- 🔭 Currently, I am reading about macroeconomics.
-- 🌱 Currently, I am learning to develop applications with AI and Web3.
-- 👯 I'm looking to collaborate on with a disruptive and innovative company
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+🔭 Currently, I am deepening my knowledge in macroeconomics to better understand the factors that influence global markets. 🌱 In addition, I am immersed in learning application development using artificial intelligence and Web3 technologies, always seeking to be at the forefront of technological innovations. 👯 I am excited to find collaboration opportunities with disruptive and innovative companies where I can apply my programming skills and contribute to revolutionary projects.
 
 <br>
 <br>
@@ -72,42 +65,11 @@ I am a Computer Engineer 💻, Full Stack developer with extensive experience in
   <h2>Articles 📰</h2>  
 </span>
 
-| Artículo 1                                                                                                                                                            | Artículo 2                                                                                                                                         | Artículo 3                                                                                                                                               |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| ![La Evolución de los Frameworks Web](https://miro.medium.com/v2/1*IuwEKQZyeMg1Tz3iQQTi3w.jpeg) [La Evolución de los Frameworks Web](https://medium.com/some-article) | ![Nuevas Tendencias en IA](https://miro.medium.com/v2/1*IuwEKQZyeMg1Tz3iQQTi3w.jpeg) [Nuevas Tendencias en IA](https://medium.com/another-article) | ![Desarrollando con Vue.js](https://miro.medium.com/v2/1*IuwEKQZyeMg1Tz3iQQTi3w.jpeg) [Desarrollando con Vue.js](https://medium.com/yet-another-article) |
-| "El uso de frameworks modernos en el desarrollo web ha revolucionado la forma en que los desarrolladores crean aplicaciones robustas y escalables."                   | "La inteligencia artificial está cambiando la forma en que interactuamos con la tecnología."                                                       | "Vue.js se está convirtiendo en una opción popular para desarrolladores frontend debido a su simplicidad y flexibilidad."                                |
-| [Lee más](https://medium.com/some-article)                                                                                                                            | [Lee más](https://medium.com/another-article)                                                                                                      | [Lee más](https://medium.com/yet-another-article)                                                                                                        |
-
-<div style="display: flex; justify-content: space-around;">
-
-<div style="flex: 1; margin: 10px;">
-    <a href="https://medium.com/some-article">
-        <img src="https://miro.medium.com/v2/1*IuwEKQZyeMg1Tz3iQQTi3w.jpeg" alt="La Evolución de los Frameworks Web" style="width: 100%; height: auto;">
-    </a>
-    <h3><a href="https://medium.com/some-article">La Evolución de los Frameworks Web</a></h3>
-    <p>"El uso de frameworks modernos en el desarrollo web ha revolucionado la forma en que los desarrolladores crean aplicaciones robustas y escalables."</p>
-    <a href="https://medium.com/some-article">Lee más</a>
-</div>
-
-<div style="flex: 1; margin: 10px;">
-    <a href="https://medium.com/another-article">
-        <img src="https://miro.medium.com/v2/resize:fit:640/format:webp/1*iL3PD7EYTVQTsqTsH1ceoA.jpeg" alt="Nuevas Tendencias en IA" style="width: 100%; height: auto;">
-    </a>
-    <h3><a href="https://medium.com/another-article">Nuevas Tendencias en IA</a></h3>
-    <p>"La inteligencia artificial está cambiando la forma en que interactuamos con la tecnología."</p>
-    <a href="https://medium.com/another-article">Lee más</a>
-</div>
-
-<div style="flex: 1; margin: 10px;">
-    <a href="https://medium.com/yet-another-article">
-        <img src="https://miro.medium.com/v2/format:webp/1*Nlqc9X4iFvtNQLPh4XJSxA.jpeg" alt="Desarrollando con Vue.js" style="width: 100%; height: auto;">
-    </a>
-    <h3><a href="https://medium.com/yet-another-article">Desarrollando con Vue.js</a></h3>
-    <p>"Vue.js se está convirtiendo en una opción popular para desarrolladores frontend debido a su simplicidad y flexibilidad."</p>
-    <a href="https://medium.com/yet-another-article">Lee más</a>
-</div>
-
-</div>
+|                                                                                                                                                               |                                                                                                                                                                |                                                                                                                                                                     |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![Nuevas Tendencias en IA](https://miro.medium.com/v2/format:webp/1*xCtCChMojAOAAllwpglwmA.png) [Nuevas Tendencias en IA](https://medium.com/another-article) | ![Nuevas Tendencias en IA](https://miro.medium.com/v2/format:webp/1*iL3PD7EYTVQTsqTsH1ceoA.jpeg) [Nuevas Tendencias en IA](https://medium.com/another-article) | ![Desarrollando con Vue.js](https://miro.medium.com/v2/format:webp/1*BSIjbkvzxqld6ZMcoG5NGg.png) [Desarrollando con Vue.js](https://medium.com/yet-another-article) |
+| "El uso de frameworks modernos en el desarrollo web ha revolucionado la forma en que los desarrolladores crean aplicaciones robustas y escalables."           | "La inteligencia artificial está cambiando la forma en que interactuamos con la tecnología."                                                                   | "Vue.js se está convirtiendo en una opción popular para desarrolladores frontend debido a su simplicidad y flexibilidad."                                           |
+| [Lee más](https://medium.com/some-article)                                                                                                                    | [Lee más](https://medium.com/another-article)                                                                                                                  | [Lee más](https://medium.com/yet-another-article)                                                                                                                   |
 
 <!--
 **Lesnier/Lesnier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
