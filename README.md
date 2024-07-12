@@ -22,9 +22,9 @@ I am a Computer Engineer 💻, Full Stack developer with extensive experience in
   <h2>Education 🎓</h2>  
 </span>
 <div align="left">
-  <img src="./computerengineer_.png" width="33%"/>
-   <img src="./graphicdesigner_.png" width="33%"/>
-  <img src="./mba_.png" width="33%"/>
+  <img src="./computerengineer_.png" width="32%"/>
+   <img src="./graphicdesigner_.png" width="32%"/>
+  <img src="./mba_.png" width="32%"/>
 </div>
 <span align="center">
   <h2>Connect with me 📡</h2>  
@@ -35,16 +35,15 @@ I am a Computer Engineer 💻, Full Stack developer with extensive experience in
 	<a href="https://www.linkedin.com/in/lesnier-gonzalez/"><img src="https://img.shields.io/badge/linkedin-%230A66C2.svg?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" height="25px"/></a>	
 	<a href="https://medium.com/@lesniergonzalez"><img src="https://img.shields.io/badge/medium-%23000.svg?style=flat&logo=medium&logoColor=white" alt="Medium" height="25px"/></a>
 	<a href="https://dev.to/lesniergonzalez"><img src="https://img.shields.io/badge/dev.to-%23000.svg?style=flat&logo=dev.to&logoColor=white" alt="Medium" height="25px"/></a>
+ 	<a href="https://dev.to/lesniergonzalez"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="Youtube Channel" height="25px"/></a>
+	
 </p>
 
-<span align="center">
-  <h2>Youtube Channel <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Youtube Channel"/></h2>  
-</span>
-
-<div>
-	<a href="https://dev.to/lesniergonzalez"  style="padding:15px"><img src="./lottiefile.png" alt="Medium" width="48%"/></a>
-	<a href="https://dev.to/lesniergonzalez"><img src="./lottiefile.png" alt="Medium" width="48%"/></a>
-</div>
+<p>
+	<a href="https://dev.to/lesniergonzalez"  style="padding:15px"><img src="./lottiefile.png" alt="Lottie Files" width="49%"/></a>
+	<span width="1%">&nbsp;&nbsp;</span>
+	<a href="https://dev.to/lesniergonzalez" style="padding:15px"><img src="./vide1.png" alt="Vue 3 + Bootstrap" width="49%"/></a>
+</p>
 
 
 
