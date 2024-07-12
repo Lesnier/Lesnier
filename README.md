@@ -40,9 +40,9 @@ I am a Computer Engineer 💻, Full Stack developer with extensive experience in
 </p>
 
 <p>
-	<a href="https://dev.to/lesniergonzalez"  style="padding:15px"><img src="./lottiefile.png" alt="Lottie Files" width="49%"/></a>
+	<a href="https://dev.to/lesniergonzalez"  style="padding:15px"><img src="./lottiefile.png" alt="Lottie Files" width="48%"/></a>
 	<span width="1%">&nbsp;&nbsp;</span>
-	<a href="https://dev.to/lesniergonzalez" style="padding:15px"><img src="./professional_github.png" alt="PerfilGithub" width="49%"/></a>
+	<a href="https://dev.to/lesniergonzalez" style="padding:15px"><img src="./professional_github.png" alt="PerfilGithub" width="48%"/></a>
 </p>
 
 
