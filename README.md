@@ -42,9 +42,11 @@
   <h2>Education 🎓</h2>  
 </span>
 <div align="left">
-  <img src="./computerengineer.png" width="32%" />
-   <img src="./graphicdesigner.png" width="32%" style="margin-left:10px"/>
-  <img src="./mba.png" width="32%" style="margin-left:10px"/>
+  <img src="./computerengineer_.png" width="31%" />
+  <span>&nbsp;&nbsp;</span>
+   <img src="./graphicdesigner_.png" width="31%" />
+   <span>&nbsp;&nbsp;</span>
+  <img src="./mba_.png" width="31%" />
 </div>
 <br>
 <p>
