@@ -16,6 +16,7 @@
   <img src="./typescript.png" width="80px"/>
   <img src="./python.png" width="80px"/>
   <img src="./threejs.png" width="80px"/>
+  <img src="./unity.png" width="80px"/>
   <img src="./max.png" width="80px"/>
 </p>
 <p>
