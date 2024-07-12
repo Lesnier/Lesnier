@@ -83,7 +83,7 @@ I am a Computer Engineer 💻, Full Stack developer with extensive experience in
 
 <br>
 <br>
-<div align="center"><img src="./cta.png" width="100%"/></div>
+<div align="center"><a href="https://www.linkedin.com/in/lesnier-gonzalez/"><img src="./cta.png" width="100%"/></a></div>
 
 <!--
 **Lesnier/Lesnier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
