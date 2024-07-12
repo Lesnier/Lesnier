@@ -36,6 +36,12 @@ I am a Computer Engineer 💻, Full Stack developer with extensive experience in
 	<a href="https://medium.com/@lesniergonzalez"><img src="https://img.shields.io/badge/medium-%23000.svg?style=flat&logo=medium&logoColor=white" alt="Medium" height="25px"/></a>
 	<a href="https://dev.to/lesniergonzalez"><img src="https://img.shields.io/badge/dev.to-%23000.svg?style=flat&logo=dev.to&logoColor=white" alt="Medium" height="25px"/></a>
 </p>
+<div>
+	<video width="320" height="240" autoplay>
+		<source src="./lottiefile.mp4" type="video/mp4">
+	</video>
+</div>
+
 
 
 
