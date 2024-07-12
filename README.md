@@ -19,9 +19,13 @@
   <img src="./unity.png" width="80px"/>
   <img src="./max.png" width="80px"/>
 </p>
+<br>
+<br>
 <p>
 I am a Computer Engineer 💻, Full Stack developer with extensive experience in creating robust and scalable web solutions 🌐. I value independence, effective communication 🗣️, and teamwork 🤝. Skilled in project management 📊, leading teams to deliver efficient and scalable solutions 🚀. Let's build something great together! 💪
 </p>
+<br>
+<br>
 <span align="center">
   <h2>Education 🎓</h2>  
 </span>
@@ -30,6 +34,8 @@ I am a Computer Engineer 💻, Full Stack developer with extensive experience in
    <img src="./graphicdesigner.png" width="32%" style="margin-left:10px"/>
   <img src="./mba.png" width="32%" style="margin-left:10px"/>
 </div>
+<br>
+<br>
 <span align="center">
   <h2>Connect with me 📡</h2>  
 </span>
@@ -42,13 +48,36 @@ I am a Computer Engineer 💻, Full Stack developer with extensive experience in
  	<a href="https://www.youtube.com/@lesniergonzalez7864"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="Youtube Channel" height="25px"/></a>
 	
 </p>
-
+<br>
+<br>
 <p>
 	<a href="#" ><img src="./lottiefile.png" alt="Lottie Files" width="48%"/></a>
 	<span>&nbsp;&nbsp;</span>
 	<a href="#" ><img src="./github.png" alt="PerfilGithub" width="48%"/></a>
 </p>
+<br>
+<br>
+- 🔭 Currently, I am reading about macroeconomics.
+- 🌱 Currently, I am learning to develop applications with AI and Web3.
+- 👯 I'm looking to collaborate on with a disruptive and innovative company
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
 
+<br>
+<br>
+ <span align="center">
+  <h2>Articles 📰</h2>  
+</span>
+<a href="https://medium.com/@lesniergonzalez/el-impacto-de-la-cuarta-revoluci%C3%B3n-industrial-en-el-mercado-laboral-oportunidades-amenazas-y-52c1e58abd20">
+
+[![La Evolución de los Frameworks Web](https://miro.medium.com/v2/resize:fit:640/1*IuwEKQZyeMg1Tz3iQQTi3w.jpeg)](https://medium.com/some-article)
+
+Lee el artículo completo en [Medium](https://medium.com/some-article).
+
+</a> 
 <!--
 **Lesnier/Lesnier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -61,5 +90,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: ... -->
