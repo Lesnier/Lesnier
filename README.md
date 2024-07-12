@@ -19,7 +19,6 @@
   <img src="./unity.png" width="80px"/>
   <img src="./max.png" width="80px"/>
 </p>
-<br>
 
 <span align="center">
 <h2>Other tehcnogies and Tools</h2>
