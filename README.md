@@ -71,16 +71,16 @@ I am a Computer Engineer 💻, Full Stack developer with extensive experience in
  <span align="center">
   <h2>Articles 📰</h2>  
 </span>
-<a href="https://medium.com/@lesniergonzalez/el-impacto-de-la-cuarta-revoluci%C3%B3n-industrial-en-el-mercado-laboral-oportunidades-amenazas-y-52c1e58abd20">
 
-[![La Evolución de los Frameworks Web](https://miro.medium.com/v2/resize:fit:640/1*IuwEKQZyeMg1Tz3iQQTi3w.jpeg)](https://medium.com/some-article)
+| Artículo 1                                                                                                                                                            | Artículo 2                                                                                                                                         | Artículo 3                                                                                                                                               |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| ![La Evolución de los Frameworks Web](https://miro.medium.com/v2/1*IuwEKQZyeMg1Tz3iQQTi3w.jpeg) [La Evolución de los Frameworks Web](https://medium.com/some-article) | ![Nuevas Tendencias en IA](https://miro.medium.com/v2/1*IuwEKQZyeMg1Tz3iQQTi3w.jpeg) [Nuevas Tendencias en IA](https://medium.com/another-article) | ![Desarrollando con Vue.js](https://miro.medium.com/v2/1*IuwEKQZyeMg1Tz3iQQTi3w.jpeg) [Desarrollando con Vue.js](https://medium.com/yet-another-article) |
+| "El uso de frameworks modernos en el desarrollo web ha revolucionado la forma en que los desarrolladores crean aplicaciones robustas y escalables."                   | "La inteligencia artificial está cambiando la forma en que interactuamos con la tecnología."                                                       | "Vue.js se está convirtiendo en una opción popular para desarrolladores frontend debido a su simplicidad y flexibilidad."                                |
+| [Lee más](https://medium.com/some-article)                                                                                                                            | [Lee más](https://medium.com/another-article)                                                                                                      | [Lee más](https://medium.com/yet-another-article)                                                                                                        |
 
-Lee el artículo completo en [Medium](https://medium.com/some-article).
-
-</a> 
 <!--
 **Lesnier/Lesnier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+https://miro.medium.com/v2/1*IuwEKQZyeMg1Tz3iQQTi3w.jpeg
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
