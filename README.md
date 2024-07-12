@@ -52,7 +52,6 @@ I am a Computer Engineer 💻, Full Stack developer with extensive experience in
 </p>
 
 <br>
-<br>
 <span align="center">
   <h2>Connect with me 📡</h2>  
 </span>
@@ -81,7 +80,6 @@ I am a Computer Engineer 💻, Full Stack developer with extensive experience in
 - 👯 I am currently open to job opportunities: My CV
 
 <br>
-<br>
  <span align="center">
   <h2>My Articles 📰</h2>  
 </span>
@@ -90,6 +88,10 @@ I am a Computer Engineer 💻, Full Stack developer with extensive experience in
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | "The Fourth Industrial Revolution (4IR) is characterized by the fusion of digital, physical, and biological technologies, fundamentally altering the way we live, work, and interact..."                                                                                           | "Choosing the right frontend framework is crucial for developers and businesses alike. Vue.js, Angular, and React are three of the most popular choices, each with ..."                                                                     | "In this tutorial, we’ll delve deep into Vue.js’s core features, useful additional resources, the Pinia library for state management, as well as recommended influencers ..."                                             |
 | [Lee más](https://medium.com/@lesniergonzalez/the-impact-of-the-fourth-industrial-revolution-on-the-labor-market-opportunities-threats-and-e70e6318c0ce)                                                                                                                           | [Lee más](https://medium.com/@lesniergonzalez/battle-of-the-frontend-titans-vue-js-vs-angular-vs-react-c3987ade6b91)                                                                                                                        | [Lee más](https://medium.com/@lesniergonzalez/vue-3-route-map-for-beginners-e9709b17f25e)                                                                                                                                 |
+
+<br>
+<br>
+<div align="center"><img src="./cta.png" width="100%"/></div>
 
 <!--
 **Lesnier/Lesnier** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
